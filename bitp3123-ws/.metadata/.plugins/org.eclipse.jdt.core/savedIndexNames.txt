@@ -1,0 +1,2 @@
+INDEX VERSION 1.132+C:\Micole\degree Sem 3\DAD\lab\Lab Exercises-20230613\bitp3123-ws\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index

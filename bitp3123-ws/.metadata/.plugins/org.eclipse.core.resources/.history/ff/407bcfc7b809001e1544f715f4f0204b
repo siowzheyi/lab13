@@ -1,0 +1,30 @@
+package exercise3;
+
+import java.util.Date;
+
+/**
+ * This class calculate number of word in a text.
+ * 
+ * @author Siow Zhe Yi
+ *
+ */
+public class TextLengthCalculator {
+	
+	/**
+	 * This method calculate number of word in a text.
+	 * 
+	 * @return number of word in a text
+	 */
+	public int getLengthText(String text) {
+		
+		int count = 0;
+		
+		//Splits each line into words  
+        String words[] = text.split("");  
+        //Counts each word  
+        count += words.length; 
+		
+		return count;
+		
+	}
+}
